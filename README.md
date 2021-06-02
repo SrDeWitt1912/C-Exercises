@@ -25,3 +25,6 @@
   
 ### Arrays and Strings
   > ex11.c
+  
+### Size and Arrays
+  > ex12.c
