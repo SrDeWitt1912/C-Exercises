@@ -10,7 +10,7 @@ void main() {
 	int days = initial_days;
 	
 
-	printf("Years: %d", years);
-	printf("Weeks: %d", weeks);
-	printf("Days: %d", days);
+	printf("Years: %d\n", years);
+	printf("Weeks: %d\n", weeks);
+	printf("Days: %d\n", days);
 }
