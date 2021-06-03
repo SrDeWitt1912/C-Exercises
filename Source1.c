@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+void main() {
+	printf("######\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#####\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#\n");
+
+	printf("\t   ######  \n");
+	printf("\t ##      ##\n");
+	printf("\t#\n");
+	printf("\t#\n");
+	printf("\t#\n");
+	printf("\t#\n");
+	printf("\t#\n");
+	printf("\t ##      ##\n");
+	printf("\t   ######  \n");
+}
