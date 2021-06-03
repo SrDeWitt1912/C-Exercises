@@ -37,3 +37,6 @@
 
 12. Pointers, Dreaded Pointers
   - ex15.c
+
+13. Structs And Pointers to Them
+  - ex16.c
