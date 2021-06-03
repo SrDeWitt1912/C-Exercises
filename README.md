@@ -31,3 +31,6 @@
 
 ### For-Loops and Arrays of Strings
   > ex13.c
+
+### Writing and Using Functions
+  > ex14.c
