@@ -28,3 +28,6 @@
   
 ### Size and Arrays
   > ex12.c
+
+### For-Loops and Arrays of Strings
+  > ex13.c
